@@ -1,0 +1,1 @@
+This is a personal project I have undertaken to showcase my learning curve in Python. I have prior experience coding in Fortran and C++ for computational physics projects, and I am now interested in extending this knowledge to Python. I aim to provide solutions to some problems in Mark Newman's Computational Physics book through my own efforts. This is an ongoing project.
